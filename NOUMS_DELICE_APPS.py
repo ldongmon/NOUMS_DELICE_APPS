@@ -19,7 +19,6 @@ st.title("🍽️ NOUMS DELICE")
 st.markdown("### Commandez vos spécialités maison 🔥")
 st.markdown("---")
 
-
 # --- Galerie photos ---
 st.markdown("---")
 st.header("📸 Galerie de nos plats")
