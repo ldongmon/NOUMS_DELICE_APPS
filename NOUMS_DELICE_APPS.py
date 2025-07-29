@@ -13,7 +13,7 @@ with col2:
     st.image("logo_superdelice.png", width=300)  # logo plus grand au centre
 
 with col3:
-    st.image("samoussa.jpeg", width=100)  # petite image à droite
+    st.image("samoussa.jpeg", width=200)  # petite image à droite
 
 st.title("🍽️ NOUMS DELICE")
 st.markdown("### Commandez vos spécialités maison 🔥")
