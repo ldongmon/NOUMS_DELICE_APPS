@@ -7,13 +7,13 @@ st.set_page_config(page_title="NOUMS DELICE - Commande", layout="centered")
 col1, col2, col3 = st.columns([1, 2, 1])  # colonnes proportionnelles
 
 with col1:
-    st.image("poulet.jpg", width=150)  # petite image à gauche
+    st.image("poulet.jpg", width=100)  # petite image à gauche
 
 with col2:
     st.image("logo_superdelice.png", width=300)  # logo plus grand au centre
 
 with col3:
-    st.image("samoussa.jpeg", width=150)  # petite image à droite
+    st.image("samoussa.jpeg", width=100)  # petite image à droite
 
 st.title("🍽️ NOUMS DELICE")
 st.markdown("### Commandez vos spécialités maison 🔥")
