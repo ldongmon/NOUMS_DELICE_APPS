@@ -19,8 +19,6 @@ st.title("🍽️ NOUMS DELICE")
 st.markdown("### Commandez vos spécialités maison 🔥")
 st.markdown("---")
 
-with col3:
-    st.image("samoussa.jpeg", width=150)  # petite image à droite
 
 # --- Galerie photos ---
 st.markdown("---")
